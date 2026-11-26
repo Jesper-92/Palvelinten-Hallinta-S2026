@@ -1,5 +1,6 @@
 # Palvelinten-Hallinta-S2026
 Kotitehtävä raportit Tero Karvisen Palvelinten Hallinta kurssille
+Testi teksti kirjoitettu eri koneelta.
 
 ## h0 Oikeasti Netissä
 Aatu Niemen tekemä ohje palvelimen aloittamisesta oli todella helppolukuinen. Pakko mainita myös itse verkkosivu, kun teki siitäkin niin hienon. Aleksi Partasen raportti domain nimen hankkimisesta oli myös kattava, siitä oli helppo itsellekin tarkistaa, että tein kaiken oikein aikaisemmin. 
